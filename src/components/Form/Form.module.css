@@ -1,0 +1,31 @@
+.form {
+    width: 500px;
+    /* padding: 20px; */
+    display: flex;
+    flex-direction: column;
+    border: 1 px solid;
+    justify-content: center;
+    align-items: center;
+}
+.formLabel{
+    margin-bottom: 15px;
+    text-align: left;
+}
+.formInput {
+    margin-top: 5px;
+    display: block;
+    min-width: 300px;
+}
+.formButton {
+    min-width: 160px;
+    min-height: 40px;
+    background-color: lightseagreen;
+    border: 1px solid ;
+    border-radius: 4px;
+    cursor: pointer;
+    color: white;
+    font-weight: 600; 
+}
+.error {
+    color: red;
+}

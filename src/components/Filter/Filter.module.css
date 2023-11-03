@@ -1,0 +1,8 @@
+.label {
+    margin-bottom: 15px;
+}
+.input {
+    margin-top: 5px;
+    display: block;
+    min-width: 300px;
+}
